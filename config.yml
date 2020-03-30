@@ -1,0 +1,11 @@
+default:
+  interval: 1m
+
+# url configuration
+sites:
+  "https://www.baidu.com/":
+    interval: 15s
+
+  "https://www.qq.com/": {}
+
+  "https://www.k8sre.com/": {}
